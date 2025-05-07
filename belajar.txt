@@ -1,2 +1,3 @@
 saya masih belajar git
-saya belajar git update
+
+ternyata sudah bisa di update
